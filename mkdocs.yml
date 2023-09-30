@@ -1,0 +1,6 @@
+site_name: 크사거북수프
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.blocks.details
+  - pymdownx.tabbed
