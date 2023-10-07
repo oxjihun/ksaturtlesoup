@@ -1,6 +1,10 @@
 site_name: 크사거북수프
 theme:
   name: material
+  favicon: img/favicon.png
+  logo: img/favicon.png
+  palette:
+    primary: red
 markdown_extensions:
   - pymdownx.blocks.details
   - pymdownx.tabbed
